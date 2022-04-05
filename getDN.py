@@ -14,14 +14,23 @@ import concurrent.futures
 import threading
 
 import socket
+
+
+'''
+Gets Domain Names for IP addresses from input file inf (opened in main())
+'''
 def main():
-    inf = open("data.txt",'r')
-    f = open("data2.txt","w")
+    inf = open("data1.txt",'r')
+    outf = open("data2.txt",'w')
     for line in inf:
         IP = line.strip()
-        f.write(str(socket.gethostbyaddr(IP)[0]))
-        f.write('\n')
+        try:
+            outf.write(str(socket.gethostbyaddr(IP)[0]))
+            outf.write('\n')
+        except:
+            pass
     inf.close()
-    f.close()
+    outf.close()
     
-main()
+if __name__=="__main__":
+    main()

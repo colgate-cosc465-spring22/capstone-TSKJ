@@ -1,0 +1,38 @@
+Domain: server-52-85-61-6.ewr53.r.cloudfront.net;  ERROR
+Domain: instagram-p42-shv-01-lga3.fbcdn.net; Category: Online Communities\/Social Networks;  Confidence: 0.97
+Domain: picard.cs.colgate.edu;  ERROR
+Domain: sea09s29-in-f14.1e100.net;  ERROR
+Domain: sea09s28-in-f5.1e100.net;  ERROR
+Domain: edge-star-mini-shv-01-sea1.facebook.com; Category: Online Communities\/Social Networks;  Confidence: 0.98
+Domain: par10s34-in-f14.1e100.net;  ERROR
+Domain: ru.ebay.com; Category: Shopping;  Confidence: 0.84
+Domain: ats1.l7.search.vip.gq1.yahoo.com;  ERROR
+Domain: sea09s29-in-f14.1e100.net;  ERROR
+Domain: sea30s08-in-f3.1e100.net;  ERROR
+Domain: sea30s10-in-f3.1e100.net;  ERROR
+Domain: sea30s08-in-f3.1e100.net;  ERROR
+Domain: par10s28-in-f101.1e100.net;  ERROR
+Domain: ats1.l7.search.vip.gq1.yahoo.com;  ERROR
+Domain: par21s19-in-f5.1e100.net;  ERROR
+Domain: 185-70-42-12.protonmail.ch;  ERROR
+Domain: par10s34-in-f14.1e100.net;  ERROR
+Domain: citi.com; Category: Finance\/Banking;  Confidence: 0.93
+Domain: citi.com; Category: Finance\/Banking;  Confidence: 0.93
+Domain: anzmoneymanager.com;  ERROR
+Domain: goingoverseas.anz.cn;  ERROR
+Domain: ip-54-186-23-98.stripe.com;  ERROR
+Domain: ru.ebay.com; Category: Shopping;  Confidence: 0.84
+Domain: dummy.tsl.lu;  ERROR
+Domain: newsnow.co.uk; Category: News;  Confidence: 0.99
+Domain: a209-200-152-198.deploy.static.akamaitechnologies.com;  ERROR
+Domain: ec2-52-32-76-121.us-west-2.compute.amazonaws.com;  ERROR
+Domain: dns.google; Category: Internet & Telecom;  Confidence: 0.8
+Domain: dns.google; Category: Internet & Telecom;  Confidence: 0.8
+Domain: dns9.quad9.net;  ERROR
+Domain: rpz-public-resolver1.rrdns.pch.net;  ERROR
+Domain: resolver1.freedns.zone.powered.by.virtexxa.com;  ERROR
+Domain: resolver2.freedns.zone.powered.by.virtexxa.com;  ERROR
+Domain: ns1.recursive.dnsbycomodo.com;  ERROR
+Domain: ns2.recursive.dnsbycomodo.com;  ERROR
+Domain: 207-68-222-123.nctc.net;  ERROR
+Domain: 207-68-220-123.nctc.net;  ERROR

@@ -1,0 +1,2 @@
+Testing getCat(): 
+Domain: tiktok.com; Category: Arts & Entertainment;  Confidence: 0.66

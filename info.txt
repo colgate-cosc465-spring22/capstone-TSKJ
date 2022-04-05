@@ -1,0 +1,7 @@
+
+DISCUSSION WITH PROFESSOR IN LAB 4/5/2022
+
+***netflow data: for each conn: 1) amount of data (each direction separately too) 2) IP contact
+count fraction of data exchanged with each domain
+
+***detect spam using domain category
