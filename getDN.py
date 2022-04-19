@@ -25,7 +25,10 @@ def main():
     for line in inf:
         IP = line.strip()
         try:
-            outf.write(str(socket.gethostbyaddr(IP)[0]))
+            url = str(socket.gethostbyaddr(IP)[0]).split('.')
+            finalURL = url[-2::]
+            finalURL = (".").join(finalURL)
+            outf.write(finalURL)
             outf.write('\n')
         except:
             pass
