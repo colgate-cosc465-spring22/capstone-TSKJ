@@ -24,7 +24,7 @@ def getCat(d_name):
     headers = {
                 'Accept': "application/json",
                 'Content-Type': "application/json",
-                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmQ1NGI5MGMzN2M4MGIwOTFhYTkxNDY5YjBkMGEyYjgxMmVlMzU2ZDA2OGE1M2U5ZjlkMmZiY2IwNjhhNGRlYWE4MTIzZDcxZmM0YjA3ZmUiLCJpYXQiOjE2NTAzOTY4NTEsIm5iZiI6MTY1MDM5Njg1MSwiZXhwIjoxNjgxOTMyODUxLCJzdWIiOiI2MDcwIiwic2NvcGVzIjpbXX0.HvLyDwtfpR8LLxE7Ru2uhP9ZeanNpeo-LSgqRhmucva4zt34ZQ2Y6-oU4qxbxJRN2kXp84Vi4kHuJFnSsFe5cg",
+                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiN2I4MmQ2N2I1YWY2MmExNTc3NmVjZDVjMmFkZTFiYzc1NmYzZGQ4N2M0NmFiMWNiNDlhZjhmMzQ4YmEyMmU5ODM0MzQ2ZGMwNGIyM2U2NjYiLCJpYXQiOjE2NTAzOTgyNTEsIm5iZiI6MTY1MDM5ODI1MSwiZXhwIjoxNjgxOTM0MjUxLCJzdWIiOiI2MDcxIiwic2NvcGVzIjpbXX0.fuA3XeYGrzXGeeX9go9Edm70XSiZxgcAxuMGU3_lcfEFqMTv3Ims06qvGTiag8BhF5uKfHQWkX_hHPxPLzh4kQ",
                 'cache-control': "no-cache"
                 }
                 

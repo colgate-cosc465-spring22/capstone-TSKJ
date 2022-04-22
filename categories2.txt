@@ -1,0 +1,2 @@
+Domain: 1e100.net;  ERROR
+Domain: colgate.edu; Category: People & Society;  Confidence: 0.59
