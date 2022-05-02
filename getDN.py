@@ -15,6 +15,17 @@ import threading
 
 import socket
 
+def getAllDNs():
+    outf = open("allDNs.txt",'w')
+    DNlst = []
+    for n in ['22','23', '24', '25', '26', '27', '28', '29', '51', '52']:
+        f = open(n+"DNs.txt", 'r')
+        for line in f:
+            DN = line.strip()
+            if DN not in DNlst:
+                outf.write(DN + '\n')
+                DNlst.append(DN)
+
 
 '''
 Gets Domain Names for IP addresses from input file inf (opened in main())
@@ -44,6 +55,8 @@ def main():
                 pass
         inf.close()
         outf.close()
+
+        getAllDNs()
     
 if __name__=="__main__":
     main()
