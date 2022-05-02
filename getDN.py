@@ -20,26 +20,30 @@ import socket
 Gets Domain Names for IP addresses from input file inf (opened in main())
 '''
 def main():
-    inf = open("data1.txt",'r')
-    outf = open("data2.txt",'w')
-    url_lst = []
-    for line in inf:
-        IP = line.strip()
-        try:
-            url = str(socket.gethostbyaddr(IP)[0]).split('.')
-            finalURL = url[-2::]
-            finalURL = (".").join(finalURL)
-            #print(finalURL)
-            #print(finalURL not in url_lst)
-            if finalURL not in url_lst:
-                outf.write(finalURL)
-                outf.write('\n')
-                url_lst.append(finalURL)
-                #print(url_lst)
-        except:
-            pass
-    inf.close()
-    outf.close()
+    for n in ['22','23', '24', '25', '26', '27', '28', '29', '51', '52']:
+        inf = open(n+".txt", 'r')
+        #inf = open("data1.txt",'r')
+        outf = open(n + "DNs.txt", 'w')  #return list of unique destination DNs from input file of (srcIP, dstIP) files
+        #outf = open("data2.txt",'w')
+        url_lst = []
+        for line in inf:
+            #IP = line.strip()
+            srcIP, dstIP = tuple(line.strip()[1:-1].split())
+            IP = dstIP[1:-1]
+            try:
+                url = str(socket.gethostbyaddr(IP)[0]).split('.')
+                finalURL = url[1:3]
+                finalURL = (".").join(finalURL)
+                #print(finalURL)
+                if finalURL not in url_lst:
+                    outf.write(finalURL)
+                    outf.write('\n')
+                    url_lst.append(finalURL)
+                    #print(url_lst)
+            except:
+                pass
+        inf.close()
+        outf.close()
     
 if __name__=="__main__":
     main()

@@ -1,0 +1,14 @@
+colgate.edu
+nysernet.net
+amazonaws.com
+1e100.net
+1.oca
+aaplimg.com
+deploy.static
+ewr53.r
+syr001.nysernet
+pbp.vip
+awsglobalaccelerator.com
+ewr52.r
+fbcdn.net
+mcast.net
