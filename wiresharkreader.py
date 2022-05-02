@@ -1,8 +1,12 @@
 #!/usr/bin/python3
+import sys
 
 def main():
     
-    file = "kwireshark.txt"
+    if (len(sys.argv) > 1):
+        file = sys.argv[1]
+    else:
+        file = "kwireshark.txt"
     f=open(file,"r")
     file = "IPs.txt"
     outfile = open(file, 'w')
