@@ -6,7 +6,6 @@ def getIP(fname, d, outf):
     f = open(d+'/'+fname, 'r')
     for line in f:
         l = line.split(',')
-        #print(l)
         if len(l[0])>8 and len(l)>6:
             t = (l[3], l[4])
             outf.write(str(t) + '\n')
@@ -20,17 +19,12 @@ def main():
         outf = open(n + ".txt", 'w')
         # iterate over files in
         # that directory
-        #test  =""
         for filename in os.listdir(directory):
             test = filename
             f = os.path.join(directory, filename)
             # checking if it is a file
             if os.path.isfile(f):
-                #outf.write(f + '\n')
-                #call getIP
                 getIP(filename, directory, outf)
-                #print(f)
-        #getIP(test, directory)
         outf.close()
 
 if __name__=="__main__":
