@@ -20,6 +20,9 @@ def divide100DNs():
         outf.write(line)
     outf.close()
     inf.close()
+
+# sends a request to find the category of the domain name d_name to the website klazify.com
+# writes result to file object outf
 def getCat(d_name, outf):
     '''
     takes a domain name (str) and prints its category and confidence
@@ -38,11 +41,7 @@ def getCat(d_name, outf):
     headers = {
                 'Accept': "application/json",
                 'Content-Type': "application/json",
-<<<<<<< HEAD
                 'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYjA0NGIzMGFjMmNlZGQ4ZTE3ZGU5OTA0OWYyNjdhNGJkZThjZTQ3MzIwNjI1ZjAwNGVkYmFmMzQzZDdiMDEzMDE4NTFjZWU1Y2QyYmVkM2IiLCJpYXQiOjE2NTE2ODg1ODYsIm5iZiI6MTY1MTY4ODU4NiwiZXhwIjoxNjgzMjI0NTg2LCJzdWIiOiI2MTE4Iiwic2NvcGVzIjpbXX0.o0Em_dd6js5TBBh539DqKKGOhbDqSS7UX8-NUq-3UbtBD5hrZHYUA7dZN-4TK63UJ5A3EwmAwgDL8RI5W7bYvw",
-=======
-                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmI3YzM2Nzc4MGVmODIxZmI4ZWI5N2MzMmM3ZTllNGI3MzkzYzdhMjZjMTExMzkxNmU5YmQ4ZmMzN2MzNTVlMDI2YTRlOWIxOGFmZDE4NDUiLCJpYXQiOjE2NTE2ODg3NDIsIm5iZiI6MTY1MTY4ODc0MiwiZXhwIjoxNjgzMjI0NzQyLCJzdWIiOiI2MTIwIiwic2NvcGVzIjpbXX0.fBwgW9a87XXnJB-Yo6Hu8b4957QzeyP6Mn5PouSQuDhUbJy_RhT4VmgCl0PF__kQChJ3cCT9mhr4LoAbTfsLCQ",
->>>>>>> 61806ab5eb778025c5a106fddb716b50fc7a7a60
                 'cache-control': "no-cache"
                 }
                 
@@ -56,16 +55,16 @@ def getCat(d_name, outf):
 
 def main():
 
+    # for debugging
     # print("Testing getCat(): ")
     # d_name = "tiktok.com"
     # print("Domain: " + d_name, end="; ")
     # getCat(d_name)
 
+
     # *******************    IMPORTANT         **************************
 
-    #test output is in categories.txt
-    #run using --> ./getCat.py > categories.txt (if you do not modify code)
-    #send output to a different file if you modify code, so that we have access to old test cases
+    # before running
 
     #divide100DNs()  #breaks large file of Domain Names in 100-entry chunks
     
