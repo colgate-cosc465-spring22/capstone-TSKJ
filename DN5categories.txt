@@ -1,0 +1,100 @@
+Domain: 147.96; ERROR
+Domain: 151.111; ERROR
+Domain: wp.com;Category: Internet & Telecom\/Web Services\/Web Design & Development;  Confidence: 0.77
+Domain: 126.190; ERROR
+Domain: yto50.r; ERROR
+Domain: dfw53.r; ERROR
+Domain: stmb002.ap; ERROR
+Domain: sub-141-207-183.myvzw; ERROR
+Domain: 118.53; ERROR
+Domain: lightspeed.ltrkar; ERROR
+Domain: 91.32a9; ERROR
+Domain: sfo5.r; ERROR
+Domain: iad89.r; ERROR
+Domain: ip-141-94-171.eu; ERROR
+Domain: pop.ewr; ERROR
+Domain: 32.211; ERROR
+Domain: lightspeed.tukrga; ERROR
+Domain: w.org;Category: s;  Confidence: \/\/w.org. Please try again."
+Domain: 234.81; ERROR
+Domain: ringcentral.com; ERROR
+Domain: 155.120; ERROR
+Domain: 227.186; ERROR
+Domain: 82.86; ERROR
+Domain: 78.131; ERROR
+Domain: 31.29; ERROR
+Domain: fisherprinting.net; ERROR
+Domain: newrelic.co; ERROR
+Domain: 210.188; ERROR
+Domain: green.datacenter; ERROR
+Domain: blueshift.net;Category: Internet & Telecom\/Web Services;  Confidence: 0.99
+Domain: 246.178; ERROR
+Domain: ap-southeast-2.compute; ERROR
+Domain: ip-51-222-239.net; ERROR
+Domain: 213.244; ERROR
+Domain: lb.opera; ERROR
+Domain: ip.casscomm; ERROR
+Domain: archive.org;Category: Business & Industrial;  Confidence: 0.61
+Domain: admin.newpaltz; ERROR
+Domain: ip-141-94-199.eu; ERROR
+Domain: digitalocean.pw; ERROR
+Domain: sub-174-202-77.myvzw; ERROR
+Domain: yourhostingaccount.com; ERROR
+Domain: vmhost.psu; ERROR
+Domain: 68.100; ERROR
+Domain: 35.184; ERROR
+Domain: webex.com;Category: Computers & Electronics\/Software\/Business & Productivity Software;  Confidence: 0.95
+Domain: ip-149-56-20.net; ERROR
+Domain: 93.201; ERROR
+Domain: ip-145-239-194.eu; ERROR
+Domain: 33.211; ERROR
+Domain: zenutech.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.95
+Domain: hsd1.ma; ERROR
+Domain: ip-141-94-110.eu; ERROR
+Domain: dslextreme.com;Category: Internet & Telecom\/Service Providers;  Confidence: 0.99
+Domain: hsd1.mi; ERROR
+Domain: 85.120; ERROR
+Domain: hinet-ip.hinet; ERROR
+Domain: sub-174-198-202.myvzw; ERROR
+Domain: ip-54-38-37.eu; ERROR
+Domain: ip-141-94-131.eu; ERROR
+Domain: 95.190; ERROR
+Domain: 136.107; ERROR
+Domain: server.ufl; ERROR
+Domain: giseis.alaska; ERROR
+Domain: wr.usgs; ERROR
+Domain: resolve.usgs; ERROR
+Domain: clients.gthost; ERROR
+Domain: psecn.photoshelter; ERROR
+Domain: newark.rutgers; ERROR
+Domain: rutgers.edu;Category: Jobs & Education\/Education\/Colleges & Universities","IAB5;  Confidence: 0.98
+Domain: camden.rutgers; ERROR
+Domain: rootmaster.info; ERROR
+Domain: pbp.vip; ERROR
+Domain: 250.107; ERROR
+Domain: ungrounded.net; ERROR
+Domain: 154.75; ERROR
+Domain: 123.117; ERROR
+Domain: 114.149; ERROR
+Domain: 54.3ca9; ERROR
+Domain: 3.basecamp; ERROR
+Domain: bc.edu;Category: Jobs & Education\/Education\/Colleges & Universities","IAB5;  Confidence: 0.95
+Domain: 41.44; ERROR
+Domain: la4-c1-ia4.salesforceliveagent; ERROR
+Domain: 96.201; ERROR
+Domain: dhcp-dynamic.fibreop; ERROR
+Domain: turn.com; ERROR
+Domain: touchnet.net;Category: Business & Industrial;  Confidence: 0.61
+Domain: acsbapp.com;Category: Business & Industrial;  Confidence: 0.62
+Domain: 72.98; ERROR
+Domain: gnome.org;Category: Computers & Electronics\/Software\/Operating Systems;  Confidence: 0.68
+Domain: 75.98; ERROR
+Domain: zerotier.com;Category: Computers & Electronics\/Networking\/VPN & Remote Access;  Confidence: 0.54
+Domain: rp.movetv; ERROR
+Domain: 194.186; ERROR
+Domain: 207.227; ERROR
+Domain: 231.211; ERROR
+Domain: tc.ph; ERROR
+Domain: 144.139; ERROR
+Domain: mds.yandex; ERROR
+Domain: 154.244; ERROR

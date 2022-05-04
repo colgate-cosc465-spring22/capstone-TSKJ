@@ -1,0 +1,100 @@
+Domain: adsafeprotected.com; ERROR
+Domain: 121.122; ERROR
+Domain: siri.apple; ERROR
+Domain: hsd1.me; ERROR
+Domain: prvdri.fios; ERROR
+Domain: 134.107; ERROR
+Domain: love.servers; ERROR
+Domain: las.iastate; ERROR
+Domain: lv.lv;Category: s;  Confidence: \/\/lv.lv. Please try again."
+Domain: 26.211; ERROR
+Domain: crashplan.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.99
+Domain: mail.126; ERROR
+Domain: hsd1.ct; ERROR
+Domain: 141.228; ERROR
+Domain: 202.120; ERROR
+Domain: hsd1.nh; ERROR
+Domain: 205.186; ERROR
+Domain: 113.58; ERROR
+Domain: dhcp.bhn; ERROR
+Domain: hsd1.or; ERROR
+Domain: verizonwireless.com;Category: Internet & Telecom\/Service Providers;  Confidence: 0.88
+Domain: 228.117; ERROR
+Domain: ctinets.com; ERROR
+Domain: 28.212; ERROR
+Domain: 115.190; ERROR
+Domain: nyc1.ff; ERROR
+Domain: va1.vip; ERROR
+Domain: mel50.r; ERROR
+Domain: hsd1.fl; ERROR
+Domain: sub-174-206-227.myvzw; ERROR
+Domain: ip-51-79-20.net; ERROR
+Domain: sub-141-207-137.myvzw; ERROR
+Domain: ip-152-228-227.eu; ERROR
+Domain: prod.cu; ERROR
+Domain: 14.211; ERROR
+Domain: lightspeed.hstntx; ERROR
+Domain: yandex.ru;Category: Internet & Telecom;  Confidence: 0.75
+Domain: 241.186; ERROR
+Domain: cpe.net;Category: Arts & Entertainment\/Humor","IAB1-4;  Confidence: 0.97
+Domain: 176.120; ERROR
+Domain: bide-et-musique.com; ERROR
+Domain: dsl.bell; ERROR
+Domain: reflected.net;Category: Internet & Telecom\/Web Services;  Confidence: 0.98
+Domain: pv.oc; ERROR
+Domain: 30.211; ERROR
+Domain: 20.149; ERROR
+Domain: us-east-1.amazonaws; ERROR
+Domain: eu-central-1.compute; ERROR
+Domain: 166.102; ERROR
+Domain: ewr52.r; ERROR
+Domain: opendns.com;Category: Computers & Electronics\/Computer Security;  Confidence: 0.92
+Domain: com.hn; ERROR
+Domain: g2-6.use1c; ERROR
+Domain: us-west-1.compute; ERROR
+Domain: 254.178; ERROR
+Domain: 204.225; ERROR
+Domain: cinci.res; ERROR
+Domain: 165.107; ERROR
+Domain: 25.190; ERROR
+Domain: 237.117; ERROR
+Domain: github.com;Category: Computers & Electronics\/Software;  Confidence: 0.81
+Domain: cmdnnj.fios; ERROR
+Domain: apogeetelecom.com; ERROR
+Domain: 3rivers.net;Category: Internet & Telecom;  Confidence: 0.69
+Domain: nycap.rr; ERROR
+Domain: googlefiber.net;Category: Internet & Telecom\/Service Providers;  Confidence: 0.84
+Domain: 210.227; ERROR
+Domain: carolina.res; ERROR
+Domain: abhsia.telus; ERROR
+Domain: 26.27; ERROR
+Domain: lightspeed.irvnca; ERROR
+Domain: iad66.r; ERROR
+Domain: 155-205-66.ftth; ERROR
+Domain: 82.185; ERROR
+Domain: ecolinkfiber.net; ERROR
+Domain: 240.199; ERROR
+Domain: archlinux.org;Category: Computers & Electronics\/Software;  Confidence: 0.74
+Domain: hsd1.in; ERROR
+Domain: ip-51-83-3.eu; ERROR
+Domain: zona.net; ERROR
+Domain: lightspeed.sntcca; ERROR
+Domain: lsanca.fios; ERROR
+Domain: sherwoodbroadband.com;Category: Internet & Telecom\/Service Providers;  Confidence: 0.99
+Domain: harrisbb.com;Category: Internet & Telecom\/Service Providers\/Cable & Satellite Providers;  Confidence: 0.63
+Domain: ip-54-39-106.net; ERROR
+Domain: twcny.res; ERROR
+Domain: lightspeed.miamfl; ERROR
+Domain: buffalo.rr; ERROR
+Domain: lightspeed.snantx; ERROR
+Domain: hsd1.tx; ERROR
+Domain: lightspeed.frsnca; ERROR
+Domain: hsd1.ga; ERROR
+Domain: nycmny.fios; ERROR
+Domain: iris.washington; ERROR
+Domain: hsd1.md; ERROR
+Domain: lightspeed.frokca; ERROR
+Domain: lightspeed.tulsok; ERROR
+Domain: wi.res; ERROR
+Domain: absecon.nj; ERROR
+Domain: 40.35; ERROR
