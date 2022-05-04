@@ -35,38 +35,38 @@ Once the SFlow data is transformed into a .txt file, the following sequence of p
             it is 3,4, 12, and 14. The output returns .txt files containing these tuples. 
 
 ### 2.) getDN.py
-Method: main(): 
-    Description: 
-        The main method first reads in the .txt files containing tuples obtained in readnfcap.py and uses reverse DNS on the 
-            source and destination IPs to obtain the domain names. While the domain names are gathered, it checks if the domain name
-            has already been added to a file of unique domain names. If not, it is added. If the reverse DNS lookup did not work
-            it is added to a list of failed DNS lookups. The result should be a unique list of domain names that can be analyzed.
-            Different functions highlighted below conduct this analysis.  
-Method: getAllDNs(): 
-    Output:  
-        a text file containing all the Domain names in one list 
-Method: getIP(): 
-    Input:  
-        source and destination IP addresses from tuple, bytes exchanged 
-    Output: 
-        returns which IP (source or destination) to check the Domain Name of, for a single sflow record 
-    Description: 
-        picks IPs external to Colgate when possible. if both source and destination are Colgate IPs, picks the source. 
-            Updates frequency of flow for each colgate subnet. 
-Method: IsColgate(): 
-    Input: 
-        is a list of numbers corresponding to a single IPv4 address where each element is one of the 8-bit sets from the 
-        IPv4 address(from left to right) 
-    Output: 
-        returns true if the address is part of the IPv4 address range owned by Colgate 
-Method: findSubnet(): 
-    Input: 
-        is the number in the 3rd 8 bits of an IPv4 address 
-    Output:
-        returns an index corresponding to the Colgate subnet the address belongs to
-        the index is relative to the list of subnets on line 95 in the main function 
-    Description: 
-        Finds the corresponding subnet from the colgate IP address. Subnets were provided by Colgate's ITS. 
+        Method: main(): 
+            Description: 
+                The main method first reads in the .txt files containing tuples obtained in readnfcap.py and uses reverse DNS on the 
+                source and destination IPs to obtain the domain names. While the domain names are gathered, it checks if the domain name
+                has already been added to a file of unique domain names. If not, it is added. If the reverse DNS lookup did not work
+                it is added to a list of failed DNS lookups. The result should be a unique list of domain names that can be analyzed.
+                Different functions highlighted below conduct this analysis.  
+        Method: getAllDNs(): 
+            Output:  
+                a text file containing all the Domain names in one list 
+        Method: getIP(): 
+            Input:  
+                source and destination IP addresses from tuple, bytes exchanged 
+            Output: 
+                returns which IP (source or destination) to check the Domain Name of, for a single sflow record 
+            Description: 
+                picks IPs external to Colgate when possible. if both source and destination are Colgate IPs, picks the source. 
+                Updates frequency of flow for each colgate subnet. 
+        Method: IsColgate(): 
+            Input: 
+                is a list of numbers corresponding to a single IPv4 address where each element is one of the 8-bit sets from the 
+                IPv4 address(from left to right) 
+            Output: 
+                returns true if the address is part of the IPv4 address range owned by Colgate 
+        Method: findSubnet(): 
+            Input: 
+                is the number in the 3rd 8 bits of an IPv4 address 
+            Output:
+                returns an index corresponding to the Colgate subnet the address belongs to
+                the index is relative to the list of subnets on line 95 in the main function 
+            Description: 
+                Finds the corresponding subnet from the colgate IP address. Subnets were provided by Colgate's ITS. 
 
 ### 3.) getCat.py
 #### IN ORDER TO RUN THIS METHOD YOU MUCT CREATE A KLAZIFY ACCOUNT FROM THE WEBSITE HERE: "https://www.klazify.com/register" AND GET AN API KEY 
