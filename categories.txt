@@ -1,4 +1,0 @@
-Domain: washdc.dsl-w; ERROR
-Domain: bos.getrave; ERROR
-Domain: mobile.att; ERROR
-Domain: iad1.squareup; ERROR

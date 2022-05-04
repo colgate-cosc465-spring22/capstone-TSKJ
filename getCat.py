@@ -5,6 +5,7 @@ import re
 '''
 Gets categories for domain names from input file f (opened in main())
 '''
+#breaks large file of Domain Names in 100-entry chunks
 def divide100DNs():
     inf = open("allDNs.txt", 'r')
     for n in ['DN1', 'DN2', 'DN3', 'DN4', 'DN5','DN6']:
@@ -37,7 +38,7 @@ def getCat(d_name, outf):
     headers = {
                 'Accept': "application/json",
                 'Content-Type': "application/json",
-                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiN2I4MmQ2N2I1YWY2MmExNTc3NmVjZDVjMmFkZTFiYzc1NmYzZGQ4N2M0NmFiMWNiNDlhZjhmMzQ4YmEyMmU5ODM0MzQ2ZGMwNGIyM2U2NjYiLCJpYXQiOjE2NTAzOTgyNTEsIm5iZiI6MTY1MDM5ODI1MSwiZXhwIjoxNjgxOTM0MjUxLCJzdWIiOiI2MDcxIiwic2NvcGVzIjpbXX0.fuA3XeYGrzXGeeX9go9Edm70XSiZxgcAxuMGU3_lcfEFqMTv3Ims06qvGTiag8BhF5uKfHQWkX_hHPxPLzh4kQ",
+                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZWFiY2I0ZTYyMjNmMWZmNGQ1YjcyNWY4OWRhODc4OTMwNjQ0ZjBhOWZkZTUxOTg3MzcyNWJkZmU3NjMzMjQxYjBmZGI2ZGVjYzY3OWUzM2YiLCJpYXQiOjE2NTE2OTc3MjIsIm5iZiI6MTY1MTY5NzcyMiwiZXhwIjoxNjgzMjMzNzIyLCJzdWIiOiI2MTIxIiwic2NvcGVzIjpbXX0.dwHd86bx_8F66Ia2SawHMDz7dkYdP6dG9SA8nO6SoVuTqbzj4sSFy9Z-xZxJ8d2gQo43qflhgnsHK3h5xXbw3w",
                 'cache-control': "no-cache"
                 }
                 
@@ -63,11 +64,13 @@ def main():
     #send output to a different file if you modify code, so that we have access to old test cases
 
     #divide100DNs()  #breaks large file of Domain Names in 100-entry chunks
-
-    f = open("DN7.txt",'r')
-    outf = open("categories.txt", 'a')
-    for i in range(4):
-        line = f.readline()
+    
+    fname = "DN7.txt"
+    f = open(fname,'r')  #replace number after "DN" in fname for the smaller file of DNs to categorize
+                         #and use a valid key on line 41
+    outf = open(fname[0:3] + "categories.txt", 'a')
+    for line in f:
+        #line = f.readline()
         d_name = line.strip()
         outf.write("Domain: " + d_name + ";")
         try:
