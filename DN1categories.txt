@@ -1,0 +1,100 @@
+Domain: static.hvvc; ERROR
+Domain: 1e100.net; ERROR
+Domain: deploy.static; ERROR
+Domain: colgate.edu;Category: People & Society;  Confidence: 0.59
+Domain: nysernet.net; ERROR
+Domain: 224.186; ERROR
+Domain: pennnet.nat; ERROR
+Domain: fbcdn.net;Category: Online Communities\/Social Networks;  Confidence: 0.97
+Domain: ewr53.r; ERROR
+Domain: lga001.nysernet; ERROR
+Domain: compute-1.amazonaws; ERROR
+Domain: facebook.com;Category: Online Communities\/Social Networks;  Confidence: 0.98
+Domain: aaplimg.com; ERROR
+Domain: valve.net; ERROR
+Domain: socal.res; ERROR
+Domain: res.bhn; ERROR
+Domain: digitalhub.com;Category: Arts & Entertainment","IAB1;  Confidence: 0.53
+Domain: syr001.nysernet; ERROR
+Domain: a66-102-149.caltel; ERROR
+Domain: iad05.justin; ERROR
+Domain: nwrknj.fios; ERROR
+Domain: hsd1.il; ERROR
+Domain: nycap.res; ERROR
+Domain: 1.oca; ERROR
+Domain: ssl.hwcdn; ERROR
+Domain: cc.lehigh; ERROR
+Domain: 127.154; ERROR
+Domain: 12-3.cable; ERROR
+Domain: map2.ssl; ERROR
+Domain: 16.197; ERROR
+Domain: hwcdn.net; ERROR
+Domain: 19.120; ERROR
+Domain: us-west-2.compute; ERROR
+Domain: 195.120; ERROR
+Domain: cs.colgate; ERROR
+Domain: 43.190; ERROR
+Domain: jfk.llnw; ERROR
+Domain: columbus.res; ERROR
+Domain: us-east-2.compute; ERROR
+Domain: awsglobalaccelerator.com; ERROR
+Domain: net; ERROR
+Domain: 200-179-173.mc; ERROR
+Domain: 202.186; ERROR
+Domain: stny.res; ERROR
+Domain: 56.241; ERROR
+Domain: cdn77.com;Category: Business & Industrial;  Confidence: 0.52
+Domain: 37.104; ERROR
+Domain: kya.res; ERROR
+Domain: ks.ks; ERROR
+Domain: 115.253; ERROR
+Domain: nyc3.24; ERROR
+Domain: hsd1.ca; ERROR
+Domain: google; ERROR
+Domain: 81.95; ERROR
+Domain: amazonaws.com; ERROR
+Domain: jfk51.r; ERROR
+Domain: ip.dclux; ERROR
+Domain: ca-central-1.compute; ERROR
+Domain: eqiad.wikimedia; ERROR
+Domain: vivox.com;Category: Arts & Entertainment\/Online Media;  Confidence: 0.8
+Domain: biz.spectrum; ERROR
+Domain: apple.com;Category: Computers & Electronics\/Consumer Electronics;  Confidence: 0.87
+Domain: sd.sd; ERROR
+Domain: G.cachefly; ERROR
+Domain: king.com;Category: Games;  Confidence: 0.58
+Domain: res.spectrum; ERROR
+Domain: nyc.res; ERROR
+Domain: ewr51.r; ERROR
+Domain: 226.186; ERROR
+Domain: 57.241; ERROR
+Domain: 122.96; ERROR
+Domain: i3d.net;Category: Games\/Computer & Video Games;  Confidence: 0.92
+Domain: 200.211; ERROR
+Domain: stu.ce; ERROR
+Domain: 195.244; ERROR
+Domain: wowrack.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.99
+Domain: 22.190; ERROR
+Domain: ycpi.vip; ERROR
+Domain: 159.244; ERROR
+Domain: lax1.adnexus; ERROR
+Domain: allwest.net; ERROR
+Domain: zoom.us;Category: Computers & Electronics\/Software\/Business & Productivity Software;  Confidence: 0.86
+Domain: ewr50.r; ERROR
+Domain: elon.edu;Category: Jobs & Education\/Education\/Colleges & Universities;  Confidence: 0.99
+Domain: internet.virginmobile; ERROR
+Domain: iad50.r; ERROR
+Domain: mycingular.net; ERROR
+Domain: ip-141-94-73.eu; ERROR
+Domain: canonical.com;Category: Computers & Electronics\/Software\/Operating Systems;  Confidence: 0.84
+Domain: 74.98; ERROR
+Domain: ms; ERROR
+Domain: 227.102; ERROR
+Domain: mcast.net; ERROR
+Domain: 157.207; ERROR
+Domain: us-east-2.amazonaws; ERROR
+Domain: mail.vip;Category: Internet & Telecom\/Email & Messaging;  Confidence: 0.79
+Domain: dfw55.r; ERROR
+Domain: 16.211; ERROR
+Domain: medialink.com;Category: Business & Industrial\/Business Services;  Confidence: 0.57
+Domain: 35.104; ERROR
