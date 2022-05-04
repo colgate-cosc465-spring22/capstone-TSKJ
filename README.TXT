@@ -82,7 +82,7 @@ Once the SFlow data is transformed into a .txt file, the following sequence of p
             Also, two lines need to be changed in this code to run. The first is line 44, in which the text
             after the word 'Bearer' needs to be changed to be the API key given after making a membership with Klazify. 
             The second line, line 71, need to have its file name changed to the corresponding text file that has the domain names
-            that you want to categorize from. The output of this method is written into a .txt 
+            that you want to categorize from. The output of this method is the domain names and categories written into a .txt 
 
             
 
