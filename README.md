@@ -23,16 +23,16 @@ Once the SFlow data is transformed into a .txt file, the following sequence of p
 
 ### 1.) readnfcap.py
         Input: 
-            SFlow data in the .txt format <br>
+            SFlow data in the .txt format 
         Output: 
-            .txt files of tuples containing the source ips, the destination ips and the sum of bytes for each packet <br>
+            .txt files of tuples containing the source ips, the destination ips and the sum of bytes for each packet
         Description: 
             The purpose of this file is to retrieve what is needed from the sflow data. The SFlow data is separated
             into folders corresponding to the dates in which the data was captured. These folders were read in 
             line 17, and for each file in the folder we ran the function getIP. getIP takes the filename, directory and output file, and writes in all
             the tuples containing the source ips, the destination ips and the sum of bytes for each packet in the outfile. Since we only want the 
             source/destination IP, and bytes exchanged, we use the headers in the SFlow data to find the corresponding column numbers. In our case, 
-            it is 3,4, 12, and 14. The output returns .txt files containing these tuples. <br>
+            it is 3,4, 12, and 14. The output returns .txt files containing these tuples. 
 
 ### 2.) getDN.py
 Method: main(): 
