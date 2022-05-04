@@ -69,11 +69,7 @@ def main():
 
     #divide100DNs()  #breaks large file of Domain Names in 100-entry chunks
     
-<<<<<<< HEAD
     fname = "DN5.txt"
-=======
-    fname = "DN6.txt"
->>>>>>> 61806ab5eb778025c5a106fddb716b50fc7a7a60
     f = open(fname,'r')  #replace number after "DN" in fname for the smaller file of DNs to categorize
                          #and use a valid key on line 41
     outf = open(fname[0:3] + "categories.txt", 'a')
