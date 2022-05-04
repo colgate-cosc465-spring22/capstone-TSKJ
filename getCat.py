@@ -5,8 +5,21 @@ import re
 '''
 Gets categories for domain names from input file f (opened in main())
 '''
-
-def getCat(d_name):
+def divide100DNs():
+    inf = open("allDNs.txt", 'r')
+    for n in ['DN1', 'DN2', 'DN3', 'DN4', 'DN5','DN6']:
+        outf = open(n+".txt", 'w')
+        for i in range(100):
+            line = inf.readline()
+            outf.write(line)
+        outf.close()
+    outf = open('DN7.txt','w')
+    for i in range(22):
+        line = inf.readline()
+        outf.write(line)
+    outf.close()
+    inf.close()
+def getCat(d_name, outf):
     '''
     takes a domain name (str) and prints its category and confidence
     '''
@@ -33,8 +46,8 @@ def getCat(d_name):
     #extract category and confidence from response
     s_resp = r.text
     l = s_resp.split(":")[3:5]
-    print("Category: " + l[1].split("}")[0][3:-1] + "; ", end =" ")
-    print("Confidence: " + l[0].split(",")[0])
+    outf.write("Category: " + l[1].split("}")[0][3:-1] + "; " + " ")
+    outf.write("Confidence: " + l[0].split(",")[0] + "\n")
 
 def main():
 
@@ -49,15 +62,20 @@ def main():
     #run using --> ./getCat.py > categories.txt (if you do not modify code)
     #send output to a different file if you modify code, so that we have access to old test cases
 
+    #divide100DNs()  #breaks large file of Domain Names in 100-entry chunks
 
-    f = open("data2.txt",'r')
-    for line in f:
+    f = open("DN7.txt",'r')
+    outf = open("categories.txt", 'a')
+    for i in range(4):
+        line = f.readline()
         d_name = line.strip()
-        print("Domain: " + d_name, end="; ")
+        outf.write("Domain: " + d_name + ";")
         try:
-            getCat(d_name)
+            getCat(d_name, outf)
         except:
-            print(" ERROR")
+            outf.write(" ERROR\n")
+    f.close()
+    outf.close()
 
 if __name__=="__main__":
     main()
