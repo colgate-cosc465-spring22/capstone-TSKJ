@@ -1,10 +1,9 @@
-************************************************
-*            COSC 465 Final Project            *
-* Tori Gobo, Sara Alan, Jin Sohn, Kate Valente *
-************************************************
 
-#ANALYZING COLGATE'S NETWORK TRAFFIC
-##DESCRIPTION
+### COSC 465 Final Project            
+### Tori Gobo, Sara Alan, Jin Sohn, Kate Valente 
+
+# ANALYZING COLGATE'S NETWORK TRAFFIC
+## DESCRIPTION
 The main goal of this project is to analyze Colgate’s internet traffic patterns in a way that aids in the 
 maintenance and betterment of the campus’ network. To do this, Colgate’s Information and Technological Services Department 
 (ITS) provided our group with SFlow data from the virtual local area network (VLANs) of several institutions on campus 
@@ -13,7 +12,7 @@ the most, and we can use the destination IPs embedded in the SFlow data to learn
 outside the network. Understanding these qualities can provide insights into who exactly is using the majority of the network, 
 and what websites they are looking for, which can be applied to Colgate's Network to better network efficiency and functionality. 
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 For this project, there are three .py files that need to be run: readnfcap.py, getDN.py and
 getCat.py. In addition, a separate repository must be used first in order to transform the SFlow data into a 
 format that can be easily read (.txt). This repository is linked here: https://github.com/phaag/nfdump
