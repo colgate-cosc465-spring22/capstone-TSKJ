@@ -1,0 +1,100 @@
+Domain: fwd.datafoundry; ERROR
+Domain: 115.95; ERROR
+Domain: ip-54-36-238.eu; ERROR
+Domain: pool.digikabel; ERROR
+Domain: ptsi.net;Category: Internet & Telecom\/Service Providers;  Confidence: 0.95
+Domain: bidtellect.com;Category: Business & Industrial\/Business Services;  Confidence: 0.93
+Domain: sucuri.net;Category: Computers & Electronics\/Computer Security;  Confidence: 0.98
+Domain: hsd1.mn; ERROR
+Domain: uow.edu;Category: Internet & Telecom;  Confidence: 0.54
+Domain: 245.178; ERROR
+Domain: 98.201; ERROR
+Domain: 222.107; ERROR
+Domain: 8.111; ERROR
+Domain: 10.207; ERROR
+Domain: rtbhouse.net; ERROR
+Domain: 42.188; ERROR
+Domain: 149.224; ERROR
+Domain: mdde.cpe; ERROR
+Domain: s5808.c3-0; ERROR
+Domain: 127.96; ERROR
+Domain: sub-174-192-199.myvzw; ERROR
+Domain: hsd1.mo; ERROR
+Domain: plainfield.nj; ERROR
+Domain: 44.192; ERROR
+Domain: sea3.r; ERROR
+Domain: host.myracloud; ERROR
+Domain: cdrr.qwest; ERROR
+Domain: sea73.r; ERROR
+Domain: ip-141-94-194.eu; ERROR
+Domain: sub-174-242-73.myvzw; ERROR
+Domain: 255.227; ERROR
+Domain: nwlm1.de; ERROR
+Domain: ip-51-222-240.net; ERROR
+Domain: sea19.r; ERROR
+Domain: ebay.com;Category: Shopping","IAB22;  Confidence: 0.84
+Domain: nyc.rr; ERROR
+Domain: us.archive; ERROR
+Domain: 226.107; ERROR
+Domain: 254.117; ERROR
+Domain: 238.211; ERROR
+Domain: 199.236; ERROR
+Domain: hsd1.co; ERROR
+Domain: 45.86; ERROR
+Domain: pitbpa.fios; ERROR
+Domain: zoomgov.com;Category: Internet & Telecom;  Confidence: 0.86
+Domain: 10.190; ERROR
+Domain: residential.rdsnet; ERROR
+Domain: mrs52.r; ERROR
+Domain: isr.umich; ERROR
+Domain: ap-south-1.compute; ERROR
+Domain: northland.net;Category: Internet & Telecom\/Web Services;  Confidence: 0.89
+Domain: 217.86; ERROR
+Domain: 213-239-227-38.clients; ERROR
+Domain: ip-141-94-248.eu; ERROR
+Domain: comet.vip;Category: Business & Industrial;  Confidence: 0.72
+Domain: s.uw; ERROR
+Domain: eastwindsor.nj; ERROR
+Domain: managed-ded.premium-chicago; ERROR
+Domain: sensus.dk;Category: Business & Industrial;  Confidence: 0.66
+Domain: 9.3; ERROR
+Domain: la4-c1-ia2.salesforceliveagent; ERROR
+Domain: roqad.pl; ERROR
+Domain: recsys.opera; ERROR
+Domain: 15.241; ERROR
+Domain: cgn.sunrise; ERROR
+Domain: 239.120; ERROR
+Domain: barnard.edu;Category: Jobs & Education\/Education\/Colleges & Universities;  Confidence: 0.9
+Domain: lax50.r; ERROR
+Domain: sub-174-211-101.myvzw; ERROR
+Domain: v.liveperson; ERROR
+Domain: 222.195; ERROR
+Domain: sub-174-242-132.myvzw; ERROR
+Domain: triad.res; ERROR
+Domain: sfo53.r; ERROR
+Domain: ip-149-56-240.net; ERROR
+Domain: deepintent.com;Category: Business & Industrial\/Business Services;  Confidence: 0.81
+Domain: 228.134; ERROR
+Domain: umbrella.com; ERROR
+Domain: sys.adgear; ERROR
+Domain: 93.211; ERROR
+Domain: us.e-planning; ERROR
+Domain: tdameritrade.com;Category: Finance\/Investing","IAB13-7;  Confidence: 0.99
+Domain: dfw.llnw; ERROR
+Domain: reverse.superonline; ERROR
+Domain: sub-174-197-197.myvzw; ERROR
+Domain: 232.94; ERROR
+Domain: com.bo; ERROR
+Domain: 67.98; ERROR
+Domain: com.mx; ERROR
+Domain: 44.211; ERROR
+Domain: colgate.edu-149-43-71-207; ERROR
+Domain: tds.syn-alias; ERROR
+Domain: ff.avast; ERROR
+Domain: 188.75; ERROR
+Domain: ap-southeast-1.compute; ERROR
+Domain: ucsd.edu;Category: Jobs & Education\/Education\/Colleges & Universities","IAB5;  Confidence: 0.96
+Domain: 138.117; ERROR
+Domain: it; ERROR
+Domain: lastpass.com;Category: Computers & Electronics\/Software;  Confidence: 0.65
+Domain: 74.201; ERROR

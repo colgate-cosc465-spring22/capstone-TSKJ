@@ -1,0 +1,100 @@
+Domain: weebly.com;Category: Internet & Telecom\/Web Services\/Web Design & Development;  Confidence: 0.99
+Domain: 139.226; ERROR
+Domain: reckonedink.com; ERROR
+Domain: columbus.rr; ERROR
+Domain: 44.62; ERROR
+Domain: prod-infinitum.com; ERROR
+Domain: dc.res; ERROR
+Domain: 48.3fa9; ERROR
+Domain: turnersville.nj; ERROR
+Domain: 67-202-105.static; ERROR
+Domain: 80.190; ERROR
+Domain: 9.211; ERROR
+Domain: reserve.wtt; ERROR
+Domain: vkontakte.ru;Category: Online Communities\/Social Networks;  Confidence: 0.97
+Domain: myfreecams.com;Category: Adult;  Confidence: 0.98
+Domain: 215.102; ERROR
+Domain: static.bresnan; ERROR
+Domain: psychz.net;Category: Internet & Telecom\/Web Services;  Confidence: 0.78
+Domain: cengage.com;Category: Jobs & Education\/Education;  Confidence: 0.96
+Domain: 13.211; ERROR
+Domain: 189.75; ERROR
+Domain: cust.service-now; ERROR
+Domain: sub-174-197-65.myvzw; ERROR
+Domain: desm.qwest; ERROR
+Domain: dynfl136.apogeeetelecom; ERROR
+Domain: hsd1.de; ERROR
+Domain: sub-174-242-69.myvzw; ERROR
+Domain: ri.ri; ERROR
+Domain: 140.107; ERROR
+Domain: 9.241; ERROR
+Domain: 221.107; ERROR
+Domain: reverse.open-telekom-cloud; ERROR
+Domain: vb10.vic; ERROR
+Domain: static.nsw; ERROR
+Domain: myrepublic.co; ERROR
+Domain: 218.186; ERROR
+Domain: com.uy; ERROR
+Domain: source.akaquill; ERROR
+Domain: 111.201; ERROR
+Domain: 144.225; ERROR
+Domain: 104.96; ERROR
+Domain: 51.149; ERROR
+Domain: hsd1.wv; ERROR
+Domain: fttp.usinternet; ERROR
+Domain: 136.70; ERROR
+Domain: 65.199; ERROR
+Domain: 97.90; ERROR
+Domain: cable.dynamic; ERROR
+Domain: net.upcbroadband; ERROR
+Domain: midco.net;Category: Internet & Telecom\/Service Providers;  Confidence: 0.96
+Domain: setaptr.net; ERROR
+Domain: net1.bg;Category: Internet & Telecom\/Service Providers;  Confidence: 0.58
+Domain: outbrain.com;Category: Business & Industrial;  Confidence: 0.58
+Domain: burlington.nj; ERROR
+Domain: 90.190; ERROR
+Domain: fdr01.frgv; ERROR
+Domain: 80.194; ERROR
+Domain: myactv.net;Category: Internet & Telecom\/Service Providers;  Confidence: 0.97
+Domain: nr-data.net; ERROR
+Domain: 24.207; ERROR
+Domain: 44.185; ERROR
+Domain: 127.95; ERROR
+Domain: lpcnextlight.net; ERROR
+Domain: shpt.centurylink; ERROR
+Domain: s5.ans1; ERROR
+Domain: ip-51-161-19.net; ERROR
+Domain: ord56.r; ERROR
+Domain: 2.226; ERROR
+Domain: rochester.res; ERROR
+Domain: 69.201; ERROR
+Domain: 220.186; ERROR
+Domain: 235.102; ERROR
+Domain: cpmc.columbia; ERROR
+Domain: myemailpage.com; ERROR
+Domain: 165.211; ERROR
+Domain: 5.120; ERROR
+Domain: 81.201; ERROR
+Domain: 89.69; ERROR
+Domain: 204.107; ERROR
+Domain: static.firstlight; ERROR
+Domain: ip-141-94-135.eu; ERROR
+Domain: bucknell.edu;Category: Jobs & Education\/Education\/Colleges & Universities;  Confidence: 0.99
+Domain: cns.vt; ERROR
+Domain: hosted-by-worldstream.net; ERROR
+Domain: avenel.nj; ERROR
+Domain: suny.dynamic; ERROR
+Domain: 254.181; ERROR
+Domain: mbb.telenor; ERROR
+Domain: ip-51-161-99.net; ERROR
+Domain: leaseweb.com;Category: Computers & Electronics;  Confidence: 0.52
+Domain: id5-sync.com;Category: s;  Confidence: \/\/id5-sync.com. Please try again."
+Domain: 253.173; ERROR
+Domain: vpngate.v4; ERROR
+Domain: dynamic.tfn; ERROR
+Domain: sdccd.edu;Category: Jobs & Education\/Education\/Colleges & Universities;  Confidence: 0.92
+Domain: 106.95; ERROR
+Domain: lati.lb; ERROR
+Domain: ip-141-94-109.eu; ERROR
+Domain: 139.102; ERROR
+Domain: cloudapp.net; ERROR

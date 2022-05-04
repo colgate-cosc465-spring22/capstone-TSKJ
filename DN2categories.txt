@@ -1,0 +1,100 @@
+Domain: datapacket.com;Category: Computers & Electronics\/Computer Hardware;  Confidence: 0.85
+Domain: sub-174-197-208.myvzw; ERROR
+Domain: tumblr.com;Category: Online Communities\/Blogging Resources & Services;  Confidence: 0.72
+Domain: eu-west-1.compute; ERROR
+Domain: ycs.vip; ERROR
+Domain: 178.211; ERROR
+Domain: com; ERROR
+Domain: ; ERROR
+Domain: 147.102; ERROR
+Domain: 239.149; ERROR
+Domain: 45.241; ERROR
+Domain: 229.17; ERROR
+Domain: sub-141-207-169.myvzw; ERROR
+Domain: ap-northeast-1.compute; ERROR
+Domain: dyn.optonline; ERROR
+Domain: doubleverify.com;Category: Business & Industrial\/Business Services;  Confidence: 0.53
+Domain: hawaii.res; ERROR
+Domain: 60.61; ERROR
+Domain: adams.net;Category: s;  Confidence: \/\/adams.net. Please try again."
+Domain: neo.res; ERROR
+Domain: 240.178; ERROR
+Domain: 16.241; ERROR
+Domain: s9468.c3-0; ERROR
+Domain: hsd1.pa; ERROR
+Domain: chyn.qwest; ERROR
+Domain: pandora.com;Category: Arts & Entertainment\/Online Media","IAB1;  Confidence: 0.64
+Domain: cpe.sparklight; ERROR
+Domain: bluehost.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.99
+Domain: hsd1.nj; ERROR
+Domain: washdc.fios; ERROR
+Domain: ccr42.jfk02; ERROR
+Domain: hr.hr; ERROR
+Domain: member.vip; ERROR
+Domain: ncbi.nlm; ERROR
+Domain: sktn.hsdb; ERROR
+Domain: bialystok.vectranet; ERROR
+Domain: lightspeed.cicril; ERROR
+Domain: bustlingpersonnel.com; ERROR
+Domain: static.as40244; ERROR
+Domain: na115-ia2.force; ERROR
+Domain: a-msedge.net; ERROR
+Domain: 208.244; ERROR
+Domain: mx-altice.prod; ERROR
+Domain: prod.media; ERROR
+Domain: 34.211; ERROR
+Domain: org; ERROR
+Domain: sub-174-206-231.myvzw; ERROR
+Domain: bltmmd.fios; ERROR
+Domain: icloud-content.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.61
+Domain: choopa.net; ERROR
+Domain: colocrossing.com;Category: Internet & Telecom\/Web Services;  Confidence: 0.99
+Domain: iad16.r; ERROR
+Domain: bu.edu;Category: Jobs & Education\/Education\/Colleges & Universities","IAB5;  Confidence: 0.98
+Domain: 233.120; ERROR
+Domain: userscontent.net; ERROR
+Domain: wb.wifirst; ERROR
+Domain: 254.107; ERROR
+Domain: oc.oc; ERROR
+Domain: tmodns.net; ERROR
+Domain: 12.117; ERROR
+Domain: lsan.ca; ERROR
+Domain: 124.201; ERROR
+Domain: compute.hwclouds-dns; ERROR
+Domain: 185.134; ERROR
+Domain: 155.102; ERROR
+Domain: 52.120; ERROR
+Domain: 72.149; ERROR
+Domain: union.nj; ERROR
+Domain: 60.190; ERROR
+Domain: timewarnercable.com;Category: s;  Confidence: \/\/timewarnercable.com. Please try again."
+Domain: dotomi.com; ERROR
+Domain: sub-174-197-206.myvzw; ERROR
+Domain: bos50.r; ERROR
+Domain: yul62.r; ERROR
+Domain: 243.120; ERROR
+Domain: ip-51-222-39.net; ERROR
+Domain: 14.71; ERROR
+Domain: 64.98; ERROR
+Domain: jfk6.r; ERROR
+Domain: bm-nginx-loadbalancer.mgmt; ERROR
+Domain: 138.226; ERROR
+Domain: buffalo.res; ERROR
+Domain: adblockplus.org;Category: Computers & Electronics\/Software\/Internet Software;  Confidence: 0.79
+Domain: 97.201; ERROR
+Domain: san.res; ERROR
+Domain: google.com;Category: Internet & Telecom;  Confidence: 0.91
+Domain: sub-174-197-195.myvzw; ERROR
+Domain: 148.107; ERROR
+Domain: 10.224; ERROR
+Domain: ip-51-222-105.net; ERROR
+Domain: ftcmco.broadband; ERROR
+Domain: lsv2.qwest; ERROR
+Domain: static.dsl; ERROR
+Domain: netvigator.com;Category: Internet & Telecom\/Service Providers;  Confidence: 0.83
+Domain: sc.res; ERROR
+Domain: 202.134; ERROR
+Domain: 231.206; ERROR
+Domain: com.sta; ERROR
+Domain: 35.190; ERROR
+Domain: 237.120; ERROR

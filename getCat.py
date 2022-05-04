@@ -38,7 +38,7 @@ def getCat(d_name, outf):
     headers = {
                 'Accept': "application/json",
                 'Content-Type': "application/json",
-                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZWFiY2I0ZTYyMjNmMWZmNGQ1YjcyNWY4OWRhODc4OTMwNjQ0ZjBhOWZkZTUxOTg3MzcyNWJkZmU3NjMzMjQxYjBmZGI2ZGVjYzY3OWUzM2YiLCJpYXQiOjE2NTE2OTc3MjIsIm5iZiI6MTY1MTY5NzcyMiwiZXhwIjoxNjgzMjMzNzIyLCJzdWIiOiI2MTIxIiwic2NvcGVzIjpbXX0.dwHd86bx_8F66Ia2SawHMDz7dkYdP6dG9SA8nO6SoVuTqbzj4sSFy9Z-xZxJ8d2gQo43qflhgnsHK3h5xXbw3w",
+                'Authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZmI3YzM2Nzc4MGVmODIxZmI4ZWI5N2MzMmM3ZTllNGI3MzkzYzdhMjZjMTExMzkxNmU5YmQ4ZmMzN2MzNTVlMDI2YTRlOWIxOGFmZDE4NDUiLCJpYXQiOjE2NTE2ODg3NDIsIm5iZiI6MTY1MTY4ODc0MiwiZXhwIjoxNjgzMjI0NzQyLCJzdWIiOiI2MTIwIiwic2NvcGVzIjpbXX0.fBwgW9a87XXnJB-Yo6Hu8b4957QzeyP6Mn5PouSQuDhUbJy_RhT4VmgCl0PF__kQChJ3cCT9mhr4LoAbTfsLCQ",
                 'cache-control': "no-cache"
                 }
                 
@@ -65,7 +65,7 @@ def main():
 
     #divide100DNs()  #breaks large file of Domain Names in 100-entry chunks
     
-    fname = "DN7.txt"
+    fname = "DN6.txt"
     f = open(fname,'r')  #replace number after "DN" in fname for the smaller file of DNs to categorize
                          #and use a valid key on line 41
     outf = open(fname[0:3] + "categories.txt", 'a')
