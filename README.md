@@ -69,7 +69,7 @@ Once the SFlow data is transformed into a .txt file, the following sequence of p
                 Finds the corresponding subnet from the colgate IP address. Subnets were provided by Colgate's ITS. 
 
 ### 3.) getCat.py
-#### IN ORDER TO RUN THIS METHOD YOU MUCT CREATE A KLAZIFY ACCOUNT FROM THE WEBSITE HERE: "https://www.klazify.com/register" AND GET AN API KEY 
+#### In order to run this method you need to register to klazify: "https://www.klazify.com/register" and get an API key
     Input: 
         Domain Names from .txt files
         Output: 
