@@ -15,6 +15,7 @@ import threading
 
 import socket
 
+# puts all the DNs obtained from IPs from nfcapd files into one .txt file
 def getAllDNs():
     outf = open("allDNs.txt",'w')
     DNlst = []
@@ -26,8 +27,10 @@ def getAllDNs():
                 outf.write(DN + '\n')
                 DNlst.append(DN)
 
-#returns IP to check DN for
-# and updates frequency of flow for each colgate IP
+# returns which IP (src or dst) to check the DN of, for a single sflow record
+# picks IPs external to Colgate when possible
+# if both src and dst are Colgate IPs, picks the src
+# and updates frequency of flow for each colgate subnet
 def getIP(t, sfrDict):
     subnetList = ['faculty', 'staff','guest','student','other']
     srcIP, dstIP, b = t
@@ -62,9 +65,15 @@ def getIP(t, sfrDict):
 
     return IP    
 
+# input is a list of numbers corresponding to a single IPv4 address
+# where each element is one of the 8-bit sets from the IPv4 address(from left to right)
+# returns true if the address is part of the IPv4 address range owned by Colgate
 def isColgate(ipLst):
     return ipLst[0]=='149' and ipLst[1]=='43'
 
+# input is the number in the 3rd 8 bits of an IPv4 address
+# returns an index corresponding to the Colgate subnet the address belongs to
+# the index is relative to the list of subnets on line 95 in the main function
 def findSubnet(third8):
     if third8 in [56, 57, 58, 59]:
         return 0
@@ -77,9 +86,6 @@ def findSubnet(third8):
     return 4 #not one of the specified /22 subnets but still colgate IP
 
 
-'''
-Gets Domain Names for IP addresses from input file inf (opened in main())
-'''
 def main():
 
     sfrDict = {} #dictionary of key = subnet and value = [sflow record, bytes of data exchanged]
@@ -125,6 +131,7 @@ def main():
         f.write('\n')
     f.close()
 
+# for debugging 
 # def main():
 
 #     # testing isColgate
